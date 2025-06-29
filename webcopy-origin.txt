@@ -1,0 +1,1608 @@
+Uri: https://electrical-takeoff.com/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/577-baltic-street/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\577-baltic-street\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/columbia-university/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\columbia-university\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/commercial-exchange/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\commercial-exchange\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/newark-liberty-international-airport/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\newark-liberty-international-airport\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/pg-ccc/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\pg-ccc\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/r-6-residential/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\r-6-residential\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/the-santa-rose-apartments/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\the-santa-rose-apartments\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/west-seneca/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\west-seneca\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/2022/06/14/wiridian-future/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\2022\06\14\wiridian-future\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/about/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\about\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/author/admin/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://electrical-takeoff.com/blog/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/cart/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\cart\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/category/projects/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\category\projects\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/category/projects/feed/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\category\projects\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://electrical-takeoff.com/checkout/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\checkout\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/comments/feed/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://electrical-takeoff.com/contact/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/feed/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://electrical-takeoff.com/my-account/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\my-account\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/our-team/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\our-team\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/projects/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\projects\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/sample-page-2/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\sample-page-2\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/sample-page-2/feed/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\sample-page-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://electrical-takeoff.com/sample-page/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\sample-page\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/sample-page/feed/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\sample-page\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://electrical-takeoff.com/services/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\services\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/shop/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\shop\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/single-project/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\single-project\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/softwares/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\softwares\index.htm
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/wp-admin/css/forms.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-admin/css/l10n.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-admin/css/login.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://electrical-takeoff.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-admin/js/password-strength-meter.min.js?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-admin/js/user-profile.min.js?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.20.2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.20.2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.20.2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.20.2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.21.4
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.4
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.4
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.4
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.21.4
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.29.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.29.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.29.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.29.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.29.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.21.4
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.21.4
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.21.4
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/everest-forms/assets/css/everest-forms.css?ver=2.0.9
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\everest-forms\assets\css\everest-forms.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/everest-forms/assets/fonts/EverestForms.eot?q9mcqj
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\everest-forms\assets\fonts\EverestForms.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/everest-forms/assets/fonts/EverestForms.svg?q9mcqj
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\everest-forms\assets\fonts\EverestForms.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/everest-forms/assets/fonts/EverestForms.ttf?q9mcqj
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\everest-forms\assets\fonts\EverestForms.ttf
+Content Type: font/ttf
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/everest-forms/assets/fonts/EverestForms.woff?q9mcqj
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\everest-forms\assets\fonts\EverestForms.woff
+Content Type: font/woff
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/everest-forms/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\everest-forms\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/everest-forms/assets/images/icons/red-arrow.svg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\everest-forms\assets\images\icons\red-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/css/font-awesome.min.css?ver=3.5
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/css/slick.css?ver=3.5
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/css/wtwp-public.css?ver=3.5
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\css\wtwp-public.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/images/arrow-left.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\images\arrow-left.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/images/arrow-right.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\images\arrow-right.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/js/slick.min.js?ver=3.5
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/plugins/wp-testimonial-with-widget/assets/js/wtwp-public.js?ver=3.5
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\plugins\wp-testimonial-with-widget\assets\js\wtwp-public.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/themes/zakra/assets/fonts/themegrill-icons.eot?5d42b271f668d2d6461ba91fc5a5a839?
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\themes\zakra\assets\fonts\themegrill-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-content/themes/zakra/assets/fonts/themegrill-icons.woff2?5d42b271f668d2d6461ba91fc5a5a839
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\themes\zakra\assets\fonts\themegrill-icons.woff2
+Content Type: font/woff2
+
+Uri: https://electrical-takeoff.com/wp-content/themes/zakra/assets/fonts/themegrill-icons.woff?5d42b271f668d2d6461ba91fc5a5a839
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\themes\zakra\assets\fonts\themegrill-icons.woff
+Content Type: font/woff
+
+Uri: https://electrical-takeoff.com/wp-content/themes/zakra/assets/js/navigation.min.js?ver=20151215
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\themes\zakra\assets\js\navigation.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js?ver=20151215
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\themes\zakra\assets\js\skip-link-focus-fix.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/themes/zakra/assets/js/zakra-custom.min.js?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\themes\zakra\assets\js\zakra-custom.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-content/themes/zakra/style.css?ver=2.1.9
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\themes\zakra\style.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/25388788904_72d2f5ec6f_z-150x150.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\25388788904_72d2f5ec6f_z-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/25388788904_72d2f5ec6f_z.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\25388788904_72d2f5ec6f_z.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/colony-800-by-462.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\colony-800-by-462.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/project-resort-1024x585.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\project-resort-1024x585.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/project-resort-300x171.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\project-resort-300x171.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/project-resort-768x439.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\project-resort-768x439.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/project-resort.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\project-resort.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/team_2.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\team_2.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/02/team_4.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\02\team_4.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/10/colony-580-by-332-300x171.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\10\colony-580-by-332-300x171.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2019/10/colony-580-by-332.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2019\10\colony-580-by-332.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/130-West-95th-Street-New-York-City-1-1024x683.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\130-West-95th-Street-New-York-City-1-1024x683.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/130-West-95th-Street-New-York-City-1-300x200.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\130-West-95th-Street-New-York-City-1-300x200.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/130-West-95th-Street-New-York-City-1-768x512.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\130-West-95th-Street-New-York-City-1-768x512.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/130-West-95th-Street-New-York-City-1.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\130-West-95th-Street-New-York-City-1.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/13400-Dille-Drive-MD-20772-2.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\13400-Dille-Drive-MD-20772-2.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/1619330691_2-phonoteka_org-p-elektrika-fon-2.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\1619330691_2-phonoteka_org-p-elektrika-fon-2.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/2-200x300.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\2-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/2-683x1024.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\2-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/2.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\2.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/416-West-8th-Street-La-California-90014-2-1024x683.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\416-West-8th-Street-La-California-90014-2-1024x683.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/416-West-8th-Street-La-California-90014-2-300x200.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\416-West-8th-Street-La-California-90014-2-300x200.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/416-West-8th-Street-La-California-90014-2-768x512.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\416-West-8th-Street-La-California-90014-2-768x512.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/416-West-8th-Street-La-California-90014-2.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\416-West-8th-Street-La-California-90014-2.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/577-Baltic-Street-2-1024x683.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\577-Baltic-Street-2-1024x683.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/577-Baltic-Street-2-300x200.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\577-Baltic-Street-2-300x200.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/577-Baltic-Street-2-768x512.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\577-Baltic-Street-2-768x512.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/577-Baltic-Street-2.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\577-Baltic-Street-2.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/5929413.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\5929413.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/ACE_68710_santa_rosa_apartments_0418_08-1-1024x683.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\ACE_68710_santa_rosa_apartments_0418_08-1-1024x683.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/ACE_68710_santa_rosa_apartments_0418_08-1-300x200.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\ACE_68710_santa_rosa_apartments_0418_08-1-300x200.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/ACE_68710_santa_rosa_apartments_0418_08-1-768x512.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\ACE_68710_santa_rosa_apartments_0418_08-1-768x512.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/ACE_68710_santa_rosa_apartments_0418_08-1.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\ACE_68710_santa_rosa_apartments_0418_08-1.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/bg-01.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/border-left-1.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\border-left-1.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/border-left.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\border-left.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/border_2.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\border_2.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Columbia-University-1-300x200.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Columbia-University-1-300x200.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Columbia-University-1-768x512.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Columbia-University-1-768x512.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Columbia-University-1.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Columbia-University-1.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Electrical-Takeoff-Logo-Final-02.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Electrical-Takeoff-Logo-Final-02.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Electrical-Takeoff-Logo-Final-03-1024x362.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Electrical-Takeoff-Logo-Final-03-1024x362.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Electrical-Takeoff-Logo-Final-03-300x106.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Electrical-Takeoff-Logo-Final-03-300x106.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Electrical-Takeoff-Logo-Final-03-768x272.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Electrical-Takeoff-Logo-Final-03-768x272.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Electrical-Takeoff-Logo-Final-03.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Electrical-Takeoff-Logo-Final-03.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/electrician-1024x819.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\electrician-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/electrician-1536x1229.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\electrician-1536x1229.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/electrician-2048x1638.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\electrician-2048x1638.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/electrician-300x240.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\electrician-300x240.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/electrician-768x614.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\electrician-768x614.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/electrician.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\electrician.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/gallery-6-1024x666.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\gallery-6-1024x666.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/gallery-6-1536x998.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\gallery-6-1536x998.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/gallery-6-2048x1331.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\gallery-6-2048x1331.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/gallery-6-300x195.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\gallery-6-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/gallery-6-768x499.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\gallery-6-768x499.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/home-1920w-1024x640.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\home-1920w-1024x640.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/home-1920w-1536x960.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\home-1920w-1536x960.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/home-1920w-300x188.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\home-1920w-300x188.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/home-1920w-768x480.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\home-1920w-768x480.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/home-1920w.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\home-1920w.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/how-to-start-a-civil-engineering-company.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\how-to-start-a-civil-engineering-company.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/img_50.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\img_50.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/img_52.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\img_52.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/industrial-1024x576.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\industrial-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/industrial-1536x864.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\industrial-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/industrial-300x169.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\industrial-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/industrial-768x432.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\industrial-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/industrial.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\industrial.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/installation-business-content-bkgd-1024x683.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\installation-business-content-bkgd-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/installation-business-content-bkgd-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\installation-business-content-bkgd-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/installation-business-content-bkgd-300x200.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\installation-business-content-bkgd-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/installation-business-content-bkgd-768x512.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\installation-business-content-bkgd-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/installation-business-content-bkgd.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\installation-business-content-bkgd.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/lighting-light-bulb.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\lighting-light-bulb.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/low-voltage-300x225.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\low-voltage-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/low-voltage-768x576.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\low-voltage-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/low-voltage.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\low-voltage.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/m2-2-231x300.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\m2-2-231x300.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/m2-2-768x998.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\m2-2-768x998.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/m2-2-788x1024.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\m2-2-788x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/m2-2.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\m2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Newwark-Liberty-International-Airport-1-1024x683.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Newwark-Liberty-International-Airport-1-1024x683.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Newwark-Liberty-International-Airport-1-300x200.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Newwark-Liberty-International-Airport-1-300x200.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Newwark-Liberty-International-Airport-1-768x512.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Newwark-Liberty-International-Airport-1-768x512.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Newwark-Liberty-International-Airport-1.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Newwark-Liberty-International-Airport-1.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/R-6-Residential-1-1024x683.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\R-6-Residential-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/R-6-Residential-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\R-6-Residential-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/R-6-Residential-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\R-6-Residential-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/R-6-Residential-1.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\R-6-Residential-1.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/residential-estimating-1-232x300.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\residential-estimating-1-232x300.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/residential-estimating-1.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\residential-estimating-1.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/residential-estimating1-1024x682.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\residential-estimating1-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/residential-estimating1-1536x1022.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\residential-estimating1-1536x1022.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/residential-estimating1-2048x1363.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\residential-estimating1-2048x1363.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/residential-estimating1-300x200.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\residential-estimating1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/residential-estimating1-768x511.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\residential-estimating1-768x511.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/residential-estimating1-scaled.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\residential-estimating1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/services-remodel-1-1024x683.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\services-remodel-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/services-remodel-1-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\services-remodel-1-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/services-remodel-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\services-remodel-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/services-remodel-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\services-remodel-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/services-remodel-1.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\services-remodel-1.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/stroika-y-remont1-1-1024x682.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\stroika-y-remont1-1-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/stroika-y-remont1-1-1536x1023.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\stroika-y-remont1-1-1536x1023.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/stroika-y-remont1-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\stroika-y-remont1-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/stroika-y-remont1-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\stroika-y-remont1-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/stroika-y-remont1-1.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\stroika-y-remont1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/testimonials01-150x150.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\testimonials01-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/testimonials02-150x150.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\testimonials02-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/testimonials03-150x150.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\testimonials03-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/turning-lax-into-a-world-class-airport-1200x750-2-1024x640.jpeg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\turning-lax-into-a-world-class-airport-1200x750-2-1024x640.jpeg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/turning-lax-into-a-world-class-airport-1200x750-2-300x188.jpeg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\turning-lax-into-a-world-class-airport-1200x750-2-300x188.jpeg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/turning-lax-into-a-world-class-airport-1200x750-2-768x480.jpeg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\turning-lax-into-a-world-class-airport-1200x750-2-768x480.jpeg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/turning-lax-into-a-world-class-airport-1200x750-2.jpeg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\turning-lax-into-a-world-class-airport-1200x750-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/West-Seneca-1-1024x683.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\West-Seneca-1-1024x683.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/West-Seneca-1-300x200.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\West-Seneca-1-300x200.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/West-Seneca-1-768x512.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\West-Seneca-1-768x512.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/West-Seneca-1.webp
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\West-Seneca-1.webp
+Content Type: image/webp
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/8jtqGrEp_400x400-removebg-preview-150x150.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\8jtqGrEp_400x400-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/8jtqGrEp_400x400-removebg-preview.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\8jtqGrEp_400x400-removebg-preview.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/download__1_-removebg-preview-300x220.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\download__1_-removebg-preview-300x220.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/download__1_-removebg-preview.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\download__1_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/Trimble-Logo-300x169.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\Trimble-Logo-300x169.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/Trimble-Logo.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\Trimble-Logo.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/vision-logo-1x-1024x191.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\vision-logo-1x-1024x191.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/vision-logo-1x-300x56.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\vision-logo-1x-300x56.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/vision-logo-1x-768x143.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\vision-logo-1x-768x143.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/07/vision-logo-1x.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\07\vision-logo-1x.png
+Content Type: image/png
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/08/img-working1.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\08\img-working1.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/09/lgos-01.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\09\lgos-01.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/09/lgos-02.jpg
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\09\lgos-02.jpg
+Content Type: image/jpeg
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/global.css?ver=1714738986
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-1011.css?ver=1714738983
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-1011.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-1251.css?ver=1714761286
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-1251.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-1254.css?ver=1714846350
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-1254.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-1733.css?ver=1714859909
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-1733.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-24.css?ver=1714738987
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-24.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-387.css?ver=1714747114
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-387.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-449.css?ver=1714914364
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-449.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-544.css?ver=1714914390
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-544.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-content/uploads/elementor/css/post-613.css?ver=1714757630
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\elementor\css\post-613.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-includes/css/buttons.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-includes/css/dashicons.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://electrical-takeoff.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://electrical-takeoff.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://electrical-takeoff.com/wp-includes/js/clipboard.min.js?ver=2.0.11
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/underscore.min.js?ver=1.13.7
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/wp-util.min.js?ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://electrical-takeoff.com/wp-json/
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2F577-baltic-street%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2F577-baltic-street%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fcolumbia-university%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fcolumbia-university%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fcommercial-exchange%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fcommercial-exchange%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fnewark-liberty-international-airport%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fnewark-liberty-international-airport%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fpg-ccc%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fpg-ccc%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fr-6-residential%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fr-6-residential%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fthe-santa-rose-apartments%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fthe-santa-rose-apartments%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fwest-seneca%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fwest-seneca%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fwiridian-future%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2F2022%2F06%2F14%2Fwiridian-future%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fabout%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fabout%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fcart%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fcart%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fcheckout%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fcheckout%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fmy-account%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fmy-account%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Four-team%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Four-team%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fprojects%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fprojects%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fsample-page%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fsample-page%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fsample-page-2%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fsample-page-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fservices%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fservices%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fshop%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fshop%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fsingle-project%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fsingle-project%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fsoftwares%2F
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/oembed/1.0/embed?url=https:%2F%2Felectrical-takeoff.com%2Fsoftwares%2F&format=xml
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/categories/21
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\categories\21
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/1251
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\1251
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/1254
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\1254
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/1733
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\1733
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/24
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/387
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\387
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/449
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\449
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/544
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\544
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/613
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\613
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/850
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\850
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1515
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1515
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1517
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1517
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1523
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1523
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1525
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1525
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1527
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1527
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1529
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1529
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1531
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1531
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1533
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1533
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/posts/1535
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\posts\1535
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://electrical-takeoff.com/wp-login.php
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-login.php-2.html
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-login.php-1.html
+Content Type: text/html
+
+Uri: https://electrical-takeoff.com/wp-login.php?redirect_to=https:%2F%2Felectrical-takeoff.com%2Fwp-admin%2F&reauth=1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400%2C700%2C500|Raleway:600&1&display=swap&ver=2.1.9
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.8.1
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v35/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\s\robotoslab\v35\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
