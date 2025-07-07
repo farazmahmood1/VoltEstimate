@@ -638,8 +638,8 @@ Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Columbia-Universi
 File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Columbia-University-1.webp
 Content Type: image/webp
 
-Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Electrical-Takeoff-Logo-Final-02.png
-File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\Electrical-Takeoff-Logo-Final-02.png
+Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/logo1234.png
+File Name: C:\Downloaded Web Sites\electrical-takeoff.com\wp-content\uploads\2022\06\logo1234.png
 Content Type: image/png
 
 Uri: https://electrical-takeoff.com/wp-content/uploads/2022/06/Electrical-Takeoff-Logo-Final-03-1024x362.png
